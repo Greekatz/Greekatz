@@ -7,7 +7,7 @@ Data Scientist
 An undergraduate student who loves Data Science
 
 * 🌍  I'm based in VietNam
-* ✉️  You can contact me at [nguyenthanhung1912@gmail.com](mailto:nguyenthanhung1912@gmail.com)
+* ✉️  You can contact me at [hungnguyenarbeit@gmail.com](mailto:hungnguyenarbeit@gmail.com)
 * 🧠  I'm learning How to create a 2D Game
 * 🤝  I'm open to collaborating on ..waiting
 
