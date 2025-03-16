@@ -6,11 +6,9 @@
 ## 🚀 About Me
 - 🔹 AI Engineer specializing in **LLM, Multimedia**.
 
-## ⏳ Code Time
+
 <!--START_SECTION:waka-->
-<figure>
-    <embed src="https://wakatime.com/share/@YOUR_WAKATIME_USER_ID/YOUR_STATS_ID.svg"></embed>
-</figure>
+
 <!--END_SECTION:waka-->
 
 ---
