@@ -4,8 +4,9 @@
 
 
 
-## ⏳ Code Time
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Greekatz&layout=compact&theme=radical)
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
 
 ---
 ✨ **Always learning, always coding!** 🚀
