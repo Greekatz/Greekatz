@@ -9,17 +9,12 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 15 March 2025 - To: 20 March 2025
+From: 15 March 2025 - To: 21 March 2025
 
-Total Time: 1 hr 26 mins
+Total Time: 2 hrs 41 mins
 
-Python       44 mins         >>>>>>>>>>>>>------------   51.58 %
-Markdown     17 mins         >>>>>--------------------   20.20 %
-HTML         5 mins          >>-----------------------   06.51 %
-CSS          3 mins          >------------------------   03.59 %
-Git Config   2 mins          >------------------------   02.68 %
-Bash         0 secs          -------------------------   01.13 %
-Other        0 secs          -------------------------   00.06 %
+Python       1 hr 22 mins    >>>>>>>>>>---------------   39.27 %
+Other        49 mins         >>>>>>-------------------   23.32 %
 ```
 
 <!--END_SECTION:waka-->
