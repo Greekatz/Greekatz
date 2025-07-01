@@ -7,13 +7,6 @@
 
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
-
-```text
-🐱‍💻 Projects: 
-thesis2                  3 mins              █████████████████████████   100.00 % 
-```
-
 
 <!--END_SECTION:waka-->
 
