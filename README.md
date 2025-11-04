@@ -11,8 +11,3 @@
 
 
 <!--END_SECTION:waka-->
-
-![Full-year Contribution Calendar](https://github.com/Greekatz/Greekatz/blob/main/metrics.plugin.isocalendar.fullyear.svg)
-
----
-✨ **Always learning, always coding!** 🚀
