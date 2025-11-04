@@ -15,6 +15,7 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} # required
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          
           SHOW_OS: "False"
           SHOW_SHORT_INFO: "False"
           SHOW_COMMIT: "False"
@@ -24,20 +25,8 @@ jobs:
           SHOW_EDITORS: "False"
           SHOW_LANGUAGE_PER_REPO: "False"
           SHOW_LOC_CHART: "False"
-          SHOW_TOTAL_CODE_TIME: "True"
           SHOW_PROFILE_VIEWS: "False"
           SHOW_DAYS_OF_WEEK: "False"
           SHOW_LINES_OF_CODE: "False"
           SHOW_UPDATED_DATE: "False"
-
-  full-year-calendar:
-    name: Full-year Calendar
-    runs-on: ubuntu-latest
-    steps:
-      - uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.isocalendar.fullyear.svg
-          token: ${{ secrets.GH_TOKEN }}
-          base: ""
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
+          SHOW_TOTAL_CODE_TIME: "True"
