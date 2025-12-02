@@ -3,7 +3,7 @@
 
 # Hi there, I'm Hung! 👋
 
-<samp>Menacing the world<samp>
+<samp>Serene<samp>
 
 
 <!--START_SECTION:waka-->
